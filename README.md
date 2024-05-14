@@ -1,4 +1,3 @@
-# Your-scary-places
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -6,7 +5,7 @@
     <img src="https://ucarecdn.com/6a15134d-c94b-4033-a7ae-85b015899228/" alt="Logo">
   </a>
 
-  <h3 align="center">Your scary places</h3>
+<h3 align="center">Your scary places</h3>
 
   <p align="center">
     An awesome mobile application for the company "BloodMoon".
@@ -27,7 +26,7 @@
 
 ![Product Name Screen Shot](https://ucarecdn.com/6a15134d-c94b-4033-a7ae-85b015899228/)
 
-A simple mobile application that solved many of the company's problems. 
+A simple mobile application that solved many of the company's problems.
 
 Features:
 - Key indicators of company on one screen and advanced statistics of key indicators in one click
@@ -43,7 +42,7 @@ Features:
 Modern mobile applications use modern libraries, and therefore we use the best libraries from Android Jetpack:
 
 * [Jetpack Compose](https://developer.android.com/jetpack/compose) - for modern UI
-* [Jetpack Navigation](https://developer.android.com/guide/navigation) - for simple navigation between screens 
+* [Jetpack Navigation](https://developer.android.com/guide/navigation) - for simple navigation between screens
 * [Jetpack ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - for screen level state holder
 
 </br>
@@ -59,7 +58,7 @@ Modern mobile applications use modern libraries, and therefore we use the best l
    ```sh
    git clone https://github.com/{nickname}/{project_name}.git
    ```
-   
+
 </br>
 
 <!--Demo -->
